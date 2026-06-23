@@ -10,7 +10,7 @@ pygame.display.set_caption("Function Tester")
 
 clock = pygame.time.Clock()
 
-font = pygame.font.SysFont("Arial", 80)
+font = pygame.font.SysFont("comic", 80)
 
 input_text = ""
 result_text = ""
